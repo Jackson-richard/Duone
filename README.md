@@ -1,4 +1,4 @@
-Duone 
+### Duone 
 
 An AI-powered web application designed to help neo-learners improve their literacy skills through structured learning content, multilingual support, learner assessments, and personalized proficiency tracking.
 

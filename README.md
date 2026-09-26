@@ -1,4 +1,4 @@
-# 📚 AI-Powered Literacy Assistant for Neo-Learners
+Duone 
 
 An AI-powered web application designed to help neo-learners improve their literacy skills through structured learning content, multilingual support, learner assessments, and personalized proficiency tracking.
 
